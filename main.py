@@ -8,7 +8,7 @@ def main():
 
     print(f'Regular Price: {original_price}')
     print(f'Discount Amount: {discount_amount}')
-    print(f'Final Price: {final_price}')
+    print(f'Final Price: {final_price}') 
 
    ##################################################
    # Do not delete the return statement
